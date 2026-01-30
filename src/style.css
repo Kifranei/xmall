@@ -1,0 +1,11 @@
+/* 全局样式重置 */
+:root {
+  --van-primary-color: #1989fa;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
